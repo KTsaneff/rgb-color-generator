@@ -27,3 +27,9 @@ A clean and interactive RGB Color Generator that lets users customize red, green
    ```bash
    git clone https://github.com/KTsaneff/rgb-color-generator.git
    cd rgb-color-generator
+   
+## 🚀 Live Demo
+
+You can test the app directly through **GitHub Pages**:
+
+👉 [https://ktsaneff.github.io/rgb-color-generator/](https://ktsaneff.github.io/rgb-color-generator/)
